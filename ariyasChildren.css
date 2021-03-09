@@ -1,0 +1,22 @@
+p {
+  background-color: pink;
+}
+li {
+  background-color: pink;
+  color: red;
+  border: 3px solid purple;
+}
+h1{
+  color: pink;
+}
+
+h3{
+  color: pink;
+}
+div{
+  color: green;
+}
+
+body{
+  background-color: grey;
+}
