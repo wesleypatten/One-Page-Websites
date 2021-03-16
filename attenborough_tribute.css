@@ -1,0 +1,30 @@
+
+#title{
+  color: #4DEB77;
+  text-align: center;
+  font-family: san serif;
+}
+
+#image{
+  background-color: #4DEB77;
+  border-style: dotted;
+}
+
+#img-caption{
+  background-color: #4DEB77;
+  border-style: dotted;
+  font-family: san serif;
+}
+
+#tribute_info{
+  font-family: san serif;
+  color: #0BE021;
+
+}
+
+#tribute-link{
+  color: blue;
+}
+#main{
+  background-color: #738C8C;
+}
