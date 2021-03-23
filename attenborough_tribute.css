@@ -1,24 +1,34 @@
-
 #title{
   color: #4DEB77;
   text-align: center;
   font-family: san serif;
+  background-color: #9ca630;
+  padding: 10px;
+}
+
+#img-div{
+  text-align: center;
 }
 
 #image{
+  width: 100%;
+  hieght: auto;
   background-color: #4DEB77;
   border-style: dotted;
+  padding: 5px;
 }
 
 #img-caption{
   background-color: #4DEB77;
   border-style: dotted;
   font-family: san serif;
+  margin-top: 10px;
 }
 
 #tribute_info{
   font-family: san serif;
   color: #0BE021;
+  text-align: center;
 
 }
 
